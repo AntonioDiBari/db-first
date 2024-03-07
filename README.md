@@ -19,4 +19,5 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 | displacement     | SMALLINT     | NOT NULL, UNSIGNED                         |             |
 | color            | VARCHAR(50)  | NULL                                       |             |
 | door             | TINYINT      | NULL, default ("4")                        |             |
+| seat             | TINYINT      | NULL, default ("4")                        |             |
 | parkingSlot      | TINYINT      | NOT NULL, UNSIGNED                         |             |
